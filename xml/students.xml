@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>4</id>
+    <register_number>20231BCA0250</register_number>
+    <student_name>bharghaw</student_name>
+    <course>BCA</course>
+    <semester>5</semester>
+    <email>bahr@gmail.com</email>
+    <contact_number>8989898989</contact_number>
+    <created_at>2026-11-18 10:00:27</created_at>
+  </student>
+  <student>
+    <id>2</id>
+    <register_number>20241BCA0036</register_number>
+    <student_name>Abhishek kumar singh</student_name>
+    <course>BCA</course>
+    <semester>6</semester>
+    <email>abhi@gmail.com</email>
+    <contact_number>9690000001</contact_number>
+    <created_at>2026-11-18 09:22:24</created_at>
+  </student>
+  <student>
+    <id>1</id>
+    <register_number>20241BCA0035</register_number>
+    <student_name>Ronit Raj Singh</student_name>
+    <course>BCA</course>
+    <semester>5</semester>
+    <email>raj@gmil.com</email>
+    <contact_number>6299724220</contact_number>
+    <created_at>2026-11-17 16:08:50</created_at>
+  </student>
+</students>
